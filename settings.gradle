@@ -1,0 +1,2 @@
+rootProject.name='Zealkart'
+include ':app'
